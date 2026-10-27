@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Hannan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=20" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,35:9333EA,70:DB2777,100:F97316&height=230&section=header&text=Muhammad%20Hannan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20and%20AI%20Engineer&descAlignY=60&descSize=22" width="100%" alt="Muhammad Hannan" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Angular+%2B+.NET+Full-Stack+Engineer;Building+Production+LLM+Agents+%26+RAG;Claude+%7C+OpenAI+%7C+Azure+OpenAI;System+Prompts+%E2%80%A2+MCP+%E2%80%A2+Evaluation+Suites;Shipping+AI+that+works%2C+not+demos+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Angular+%2B+.NET+Full-Stack+Engineer;Building+Production+LLM+Agents+%26+RAG;Claude+%7C+OpenAI+%7C+Azure+OpenAI;System+Prompts+%E2%80%A2+MCP+%E2%80%A2+Evaluation+Suites;Shipping+AI+that+works%2C+not+demos+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -221,10 +221,6 @@ Defines what "correct" means for each agent and tests it against ground-truth da
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hannanrao899&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hannanrao899&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
@@ -244,5 +240,5 @@ Have an idea or an existing app that needs help — a full-stack build, a legacy
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,30:DB2777,65:9333EA,100:4F46E5&height=120&section=footer" width="100%" />
 </p>
